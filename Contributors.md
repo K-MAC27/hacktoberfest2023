@@ -7,4 +7,10 @@
     linkedinProfile: 'https://www.linkedin.com/username/',
     
   },
+ {
+    name: 'Pratyush Agrawal',
+    github_username: 'K-MAC27',
+    about: 'Full stack developer',
+    linkedinProfile: 'https://www.linkedin.com/in/pratyush2704/',
+  },
   
