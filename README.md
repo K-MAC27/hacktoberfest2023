@@ -99,6 +99,7 @@ git checkout -b add-alonzo-church
 ## Step 4: Make necessary changes and commit them
 
 Open the `Contributors.md` file in a text editor and add your name to it. Don't add it at the beginning or end of the file; place it anywhere in between. Save the file.
+Add your projects or any file irrespective of programming language.
 
 ![Git Status](https://firstcontributions.github.io/assets/Readme/git-status.png)
 
