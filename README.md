@@ -155,7 +155,7 @@ Congratulations! You've completed the standard _fork -> clone -> edit -> pull re
 
 If you have questions or need help, you can join our Slack team: [Join Slack Team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Now, let's get you started with contributing to other projects. We've compiled a list of projects with easy issues for newcomers. Check it out [here](https://firstcontributions.github.io/#project-list).
+Now, let's get you started with contributing to other projects. We've made a public directory for Electronic toolkit. Feel free to add any features and functionality to it. And provide a detailed commit message along with PR/MRs .
 
 ***
 <h2 align="center">
